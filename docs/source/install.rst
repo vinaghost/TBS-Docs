@@ -1,11 +1,16 @@
 Install
 =======
 
+System requirements
+-------------------
+
+TBS is made to run on **Windows** only. (Linux or MacOS are in planning)
+TBS need **Google Chrome** to open Travian game, make sure install it first.
 
 Download (WIP)
 --------------
 
-WIP
+*WIP*
 
 Open bot
 --------
