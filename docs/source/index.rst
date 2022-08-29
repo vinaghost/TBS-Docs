@@ -20,3 +20,4 @@ Contents
 .. toctree::
 
    install
+   addaccount
