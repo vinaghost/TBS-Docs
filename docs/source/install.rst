@@ -21,3 +21,8 @@ After extracting the archive, you will get these file.
 .. image:: img/install/01_filelist.png
 
 Run **TravianBotSharp.exe** to open bot.
+
+
+.. note::
+
+In the first time, TBS will load longer as normal, please wait patiently.
