@@ -21,7 +21,7 @@ Fill your account information.
 
 .. note::
 
-Make sure your server url has *https://* or *http://* at the beginning.
+    Make sure your server url has *https://* or *http://* at the beginning.
 
 3. Step 3:
 
@@ -51,8 +51,9 @@ Fill your account information.
 
 .. note::
 
-Make sure your server url has *https://* or *http://* at the beginning.
-After finish one account, please press **space** or **enter** to update account table.
+    Make sure your server url has *https://* or *http://* at the beginning.
+    
+    After finish one account, please press **space** or **enter** to update account table.
 
 3. Step 3:
 
