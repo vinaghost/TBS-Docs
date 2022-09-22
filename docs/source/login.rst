@@ -11,13 +11,14 @@ Then click on Login button.
 
 .. note::
 
-You may want to change account's settings before
+    You may want to change account's settings before
 
 After clicking on the button, you will see Chrome browser open and auto login your account.
 
 .. note::
 
-In the first time, TBS will go through all your village to get all information. Check debug tab before you do anything.
+    In the first time, TBS will go through all your village to get all information. 
+    Check debug tab before you do anything.
 
 .. image:: img/login/02_visitvillage.png
 
