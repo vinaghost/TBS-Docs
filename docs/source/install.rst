@@ -24,5 +24,4 @@ Run **TravianBotSharp.exe** to open bot.
 
 
 .. note::
-
-In the first time, TBS will load longer as normal, please wait patiently.
+    In the first time, TBS will load longer as normal, please wait patiently.

@@ -5,13 +5,14 @@ Welcome
 
 Main features
 ====
+
 * Multi-account support
 * Auto builder (support use resource from hero inventory)
 * Auto send hero to adventures
 
 .. note::
 
-   This project is under active development.
+	This project is under active development.
 
 
 Contents
@@ -19,6 +20,7 @@ Contents
 
 .. toctree::
 
-   install
-   addaccount
-   login
+	install
+	addaccount
+	login
+	accountsetting
