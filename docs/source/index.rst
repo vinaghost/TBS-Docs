@@ -24,3 +24,4 @@ Contents
 	addaccount
 	login
 	accountsetting
+	farming
