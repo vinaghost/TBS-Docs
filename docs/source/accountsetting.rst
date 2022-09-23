@@ -6,18 +6,15 @@ Account's settings
 
 Delay settings
 --------------
-* Click delay (ms): The delay between each click. This is useful to avoid
-being detected by the server. The default value is 700 ms.
-* Task delay (ms): The delay between each task. This is useful to avoid
-being detected by the server. The default value is 1250 ms.
+
+* Click delay (ms): The delay between each click. This is useful to avoid being detected by the server. The default value is 700 ms.
+* Task delay (ms): The delay between each task. This is useful to avoid being detected by the server. The default value is 1250 ms.
 
 Activity settings
 --------------
 
-* Working time (min): The time the bot will work before sleeping
-The default value is 360 minutes. (6 hours)
-* Sleep time (min): The time the bot will sleep before working again.
-The default value is 540 minutes. (9 hours)
+* Working time (min): The time the bot will work before sleeping. The default value is 360 minutes. (6 hours)
+* Sleep time (min): The time the bot will sleep before working again. The default value is 540 minutes. (9 hours)
 
 .. note::
     If your account has multiple proxies, bot will check next proxy and use that instead of sleeping.
@@ -27,8 +24,7 @@ Chrome settings
 --------------
 
 * Don't load images: This will reduce data used if account is using proxy
-* Minimized when opening: This will minimize the browser when the bot is 
-starting
+* Minimized when opening: This will minimize the browser when the bot is starting
 * Close if no task: This will close the browser if there is no task to do
 
 .. note::
