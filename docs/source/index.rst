@@ -25,4 +25,5 @@ Contents
 	addaccount
 	login
 	accountsetting
+	autobuilder
 	farming
