@@ -27,3 +27,4 @@ Contents
 	accountsetting
 	autobuilder
 	farming
+	donate
