@@ -27,4 +27,5 @@ Contents
 	accountsetting
 	autobuilder
 	farming
+	banhammeravoid
 	donate
