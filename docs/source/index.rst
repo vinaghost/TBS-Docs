@@ -15,6 +15,10 @@ Main features
 
 	This project is under active development.
 
+Known issue
+====
+
+* Cannot login same connection to multiple server (including non-proxy connection)
 
 Contents
 --------
