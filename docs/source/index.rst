@@ -18,8 +18,10 @@ Main features
 Known issue
 ====
 
+* TBS only works with English language. Please change your language to English before using TBS.
 * Cannot login same connection to multiple server (including non-proxy connection)
 * Sometime TBS's timer is died ( task keep waiting ), you need to close and reopen TBS to fix it.
+
 
 Contents
 --------
