@@ -10,6 +10,7 @@ Main features
 * Auto builder (support use resource from hero inventory)
 * Auto send hero to adventures
 * Auto send farmlist 
+* Auto improve troop
 * Auto NPC
 
 .. note::
@@ -35,5 +36,6 @@ Contents
 	accountsetting
 	autobuilder
 	farming
+	imrpove
 	banhammeravoid
 	donate
