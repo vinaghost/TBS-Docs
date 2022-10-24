@@ -1,4 +1,4 @@
-Account's settings
+Farming
 =======
 
 .. image:: img/farming/01_interface.png
@@ -6,6 +6,7 @@ Account's settings
 .. note::
 
     This feature only works when you click on the Start all active button
+    
     TBS won't start automatically the farming process after you login account like the old one
 
 

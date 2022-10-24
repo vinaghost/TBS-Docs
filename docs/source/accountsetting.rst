@@ -7,8 +7,8 @@ Account's settings
 Delay settings
 --------------
 
-* **Click delay** (ms): The delay between each click. This is useful to avoid being detected by the server. The default value is 700 ms.
-* **Task delay** (ms): The delay between each task. This is useful to avoid being detected by the server. The default value is 1250 ms.
+* **Click delay** (ms): The delay between each click. 
+* **Task delay** (ms): The delay between each task. 
 
 Activity settings
 --------------
@@ -18,6 +18,7 @@ Activity settings
 
 .. note::
     If your account has multiple proxies, bot will check next proxy and use that instead of sleeping.
+
     Becareful when set these time, if you set too short time, Multihunter will hunt you down.
 
 Chrome settings

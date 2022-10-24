@@ -18,7 +18,9 @@ Tick on Auto improve troop and choose your troop you want and press Save
 .. note::
 
     Troop which is not researched will be untick
+
     You have to manually update which troop account researched (Check bellow)
+
     Please ignore settle and chief, they cannot improve, please don't tick on them
 
 Manually improve
@@ -38,4 +40,5 @@ Choose troop you want by ticking on box and press Upgrade
 .. note::
 
     This will add improve task to queue but don't repeat. 
+    
     Use this when your Smithy is level 20.
