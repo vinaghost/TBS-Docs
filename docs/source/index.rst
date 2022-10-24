@@ -36,6 +36,6 @@ Contents
 	accountsetting
 	autobuilder
 	farming
-	imrpove
+	improve
 	banhammeravoid
 	donate
